@@ -1,0 +1,6 @@
+public
+node_modules
+bin
+out/
+# TS -incremental file
+tsconfig.tsbuildinfo
