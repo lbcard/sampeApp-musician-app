@@ -5,9 +5,6 @@ phases:
     on-failure: CONTINUE
     commands:
        - yarn
-  tests:
-    on-failure: CONTINUE
-    commands:
        - yarn run test
   build:
     on-failure: CONTINUE
